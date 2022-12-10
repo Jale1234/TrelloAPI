@@ -2,7 +2,7 @@
 
 This repository contains automated Trello API smoke test written in Postman.
 
-## Steps for running test
+## Run test instructions
 
 ### 1. Install newman
   ```sh
